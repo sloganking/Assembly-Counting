@@ -16,3 +16,5 @@ Hit reset at the top and then press run at the top to start the program.
 ## Notes
 
 - It is hightly suggested to [turn the simulator clock speed to 16 hz](https://i.imgur.com/BSKkctX.png)
+
+- This project builds off [code from another repository](https://github.com/SleepingFox88/Assembly-Double-Dabble)
